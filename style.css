@@ -1,4 +1,7 @@
-h1 {
-  text-align: center;
-  color: red;
+.container {
+  padding: 20px;
+}
+.weather-icon {
+  font-size: 100px;
+  color: gray;
 }
